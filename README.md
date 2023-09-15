@@ -19,52 +19,47 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# TextUtils - Edit text online.
+## **Tech Stack** : 
+* HTML
+* CSS
+* JavaScript
+* React Js
+* Bootstrap
+* Git / GitHub
+___
+## **Description** : 
+* Easy to Use
+* Offers various features
+* Fast and Error free editing
+* Preview Text file
+* Shows charcter and Word count
+* Dark mode available
+* Completely free
+___
+## **Previews** : 
+### Home Page (Light Mode)
+![Home](https://drive.google.com/uc?export=view&id=1PbSq6nU_8zS7qrR-GCfG7yjbY4TSpv_n)
+### Entering Text
+![Entering](https://drive.google.com/uc?export=view&id=1Qs8NGQVKu3XuEm65RehuIOyDuF2VinIL)
+### Switching to Dark Mode
+![Dark Mode1](https://drive.google.com/uc?export=view&id=1QprLTWLdC72zRNBvXn0p1_nP8jEyJs_T)
+![Dark Mode2](https://drive.google.com/uc?export=view&id=1PnUvEXaFJ7JQpKBhJ_FldVCGEwKVT_KQ)
+### Converting to UpperCase
+![upper1](https://drive.google.com/uc?export=view&id=1PiFElKujRj1S6M9n7rOu_lLvMYhOn89v)
+![upper2](https://drive.google.com/uc?export=view&id=1PksK4Y6yvVszm0G-7VED0b9chyn3aRCS)
+### Converting to LowerCase
+![lower1](https://drive.google.com/uc?export=view&id=1QynP90XfVFkngszKwI8puZbCq4vNoj4H)
+![lower2](https://drive.google.com/uc?export=view&id=1QmlE84B6226fEIADmBEqpOQJjhSnK9V-)
+### Copying text to Clipboard
+![copy1](https://drive.google.com/uc?export=view&id=1QmfLAQjy92JsdZ26a1CfL1fcZFYl8ZUa)
+![copy2](https://drive.google.com/uc?export=view&id=1Pz6faBBOji2qCf5P3zi8g-vdSF1Tx_3L)
+### Viewing Charater and Word Count
+![count](https://drive.google.com/uc?export=view&id=1RCmBAya6heksFjCHA4vuRVNBmePThAdN)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
